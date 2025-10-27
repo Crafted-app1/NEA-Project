@@ -1,3 +1,3 @@
 # NEA-Project
 This will be the entirety of my project.
-hello
+A web-based application built with HTML, CSS, and C#.
