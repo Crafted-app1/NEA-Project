@@ -1,0 +1,15 @@
+/workspaces/NEA-Project/NEA-Project/bin/Debug/net8.0/NEA-Project
+/workspaces/NEA-Project/NEA-Project/bin/Debug/net8.0/NEA-Project.deps.json
+/workspaces/NEA-Project/NEA-Project/bin/Debug/net8.0/NEA-Project.runtimeconfig.json
+/workspaces/NEA-Project/NEA-Project/bin/Debug/net8.0/NEA-Project.dll
+/workspaces/NEA-Project/NEA-Project/bin/Debug/net8.0/NEA-Project.pdb
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/NEA-Project.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/NEA-Project.AssemblyInfoInputs.cache
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/NEA-Project.AssemblyInfo.cs
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/NEA-Project.csproj.CoreCompileInputs.cache
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/NEA-Project.sourcelink.json
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/NEA-Project.dll
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/refint/NEA-Project.dll
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/NEA-Project.pdb
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/NEA-Project.genruntimeconfig.cache
+/workspaces/NEA-Project/NEA-Project/obj/Debug/net8.0/ref/NEA-Project.dll
